@@ -6,3 +6,4 @@ David - English /US/ - HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Token
 Zira - English /US/ - HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_ZIRA_11.0
 Hazel - English /GB/ - HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-GB_HAZEL_11.0
 Heami - Korean - HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_KO-KR_HEAMI_11.0
+09/14/2025 - Now uses inquirer!
